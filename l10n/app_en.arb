@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appTitle": "SESH",
+  "followTheStory": "FOLLOW THE STORY.",
+  "continueLabel": "CONTINUE",
+  "startExploring": "START EXPLORING",
+  "skip": "Skip",
+  "home": "Home",
+  "explore": "Explore",
+  "map": "Map",
+  "ask": "Ask",
+  "saved": "Saved",
+  "goodEvening": "Good evening, Explorer.",
+  "discover": "DISCOVER",
+  "latestNews": "LATEST NEWS",
+  "tryAgain": "TRY AGAIN",
+  "offline": "THE ARCHIVE IS TEMPORARILY OFFLINE",
+  "interestsTitle": "WHAT ARE YOU CURIOUS ABOUT?",
+  "interestsSubtitle": "Choose a few interests to shape your discovery dashboard.",
+  "continueExploring": "CONTINUE EXPLORING",
+  "myDiscoveries": "MY DISCOVERIES",
+  "emptySaved": "Your discoveries will appear here."
+}

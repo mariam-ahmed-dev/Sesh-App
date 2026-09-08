@@ -1,0 +1,23 @@
+{
+  "@@locale": "ar",
+  "appTitle": "سش",
+  "followTheStory": "اتبع القصة.",
+  "continueLabel": "متابعة",
+  "startExploring": "ابدأ الاستكشاف",
+  "skip": "تخطي",
+  "home": "الرئيسية",
+  "explore": "استكشف",
+  "map": "الخريطة",
+  "ask": "اسأل",
+  "saved": "المحفوظات",
+  "goodEvening": "مساء الخير أيها المستكشف.",
+  "discover": "اكتشف",
+  "latestNews": "أحدث الأخبار",
+  "tryAgain": "حاول مرة أخرى",
+  "offline": "الأرشيف غير متاح مؤقتًا",
+  "interestsTitle": "ما الذي يثير فضولك؟",
+  "interestsSubtitle": "اختر اهتماماتك لتخصيص لوحة الاكتشاف.",
+  "continueExploring": "متابعة الاستكشاف",
+  "myDiscoveries": "اكتشافاتي",
+  "emptySaved": "ستظهر اكتشافاتك هنا."
+}
